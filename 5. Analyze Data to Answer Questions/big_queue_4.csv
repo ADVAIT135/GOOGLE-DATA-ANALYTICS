@@ -1,0 +1,11 @@
+Year,County_of_Residence,County_of_Residence_FIPS,Births,Ave_Age_of_Mother,Ave_OE_Gestational_Age_Wks,Ave_LMP_Gestational_Age_Wks,Ave_Birth_Weight_gms,Ave_Pre_pregnancy_BMI,Ave_Number_of_Prenatal_Wks
+2016-01-01,"Los Angeles County, CA",06037,123092,29.9,38.56,38.66,3260.01,26.16,11.99
+2017-01-01,"Los Angeles County, CA",06037,116950,30.11,38.56,38.64,3259.04,26.38,12.12
+2018-01-01,"Los Angeles County, CA",06037,110271,30.4,38.54,38.63,3260.45,26.6,12.19
+2016-01-01,"Harris County, TX",48201,72420,28.52,38.27,38.4,3223.41,26.82,9.72
+2017-01-01,"Harris County, TX",48201,68422,28.66,38.24,38.34,3215.85,26.93,9.81
+2018-01-01,"Harris County, TX",48201,67095,28.82,38.19,38.32,3203.57,27.27,9.86
+2016-01-01,"Cook County, IL",17031,66779,29.64,38.42,38.56,3233.71,26.89,10.8
+2017-01-01,"Cook County, IL",17031,64374,29.79,38.43,38.57,3233.49,27.01,10.86
+2018-01-01,"Cook County, IL",17031,61797,30.05,38.38,38.51,3230.21,27.13,10.88
+2016-01-01,"Unidentified Counties, TX",48999,59168,26.53,38.31,38.44,3246.56,27.59,10.43

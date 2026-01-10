@@ -1,0 +1,10 @@
+Year,County_of_Residence,County_of_Residence_FIPS,Births,Ave_Age_of_Mother,Ave_OE_Gestational_Age_Wks,Ave_LMP_Gestational_Age_Wks,Ave_Birth_Weight_gms,Ave_Pre_pregnancy_BMI,Ave_Number_of_Prenatal_Wks
+2016-01-01,"Chautauqua County, NY",36013,1345,26.85,38.51,38.78,3300.48,27.37,11.36
+2017-01-01,"Chautauqua County, NY",36013,1344,27.36,38.62,38.83,3315.2,27.71,11.27
+2018-01-01,"Chautauqua County, NY",36013,1299,27.28,38.47,38.7,3263.74,28.05,10.9
+2016-01-01,"Erie County, NY",36029,9916,29.12,38.51,38.7,3267.11,27.47,10.28
+2017-01-01,"Erie County, NY",36029,9870,29.3,38.53,38.66,3268.14,27.68,10.45
+2018-01-01,"Erie County, NY",36029,9812,29.56,38.46,38.59,3262.8,27.76,10.8
+2016-01-01,"Niagara County, NY",36063,2139,28.36,38.51,38.66,3289.15,28.23,10.1
+2017-01-01,"Niagara County, NY",36063,2114,28.5,38.57,38.73,3288.72,28.21,10.01
+2018-01-01,"Niagara County, NY",36063,2100,28.89,38.41,38.53,3265.76,28.42,10.18

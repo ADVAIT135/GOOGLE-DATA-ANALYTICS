@@ -1,0 +1,11 @@
+Year,County_of_Residence,County_of_Residence_FIPS,Births,Ave_Age_of_Mother,Ave_OE_Gestational_Age_Wks,Ave_LMP_Gestational_Age_Wks,Ave_Birth_Weight_gms,Ave_Pre_pregnancy_BMI,Ave_Number_of_Prenatal_Wks
+2018-01-01,"Tompkins County, NY",36109,735,30.49,38.8,38.96,3330.2,26.35,11.97
+2018-01-01,"Unidentified Counties, HI",15999,749,29.78,38.61,38.92,3202.4,25.73,11.71
+2017-01-01,"Tompkins County, NY",36109,767,30.27,38.89,39.07,3357.22,25.94,11.76
+2016-01-01,"Tompkins County, NY",36109,787,30.49,38.92,39.04,3369.37,25.94,11.88
+2018-01-01,"Unidentified Counties, MA",25999,802,30.54,39.02,39.05,3402.09,26.37,13.41
+2016-01-01,"Unidentified Counties, HI",15999,845,29.18,38.59,38.79,3220.83,25.83,11.28
+2017-01-01,"Washington County, RI",44009,852,30.59,38.75,38.99,3372.16,26.02,13.29
+2017-01-01,"Unidentified Counties, HI",15999,857,29.29,38.56,38.86,3232.84,26.04,11.17
+2017-01-01,"Unidentified Counties, MA",25999,866,30.53,38.97,38.98,3375.15,26.3,12.99
+2018-01-01,"Fayette County, GA",13113,867,30.32,38.25,38.17,3233.16,26.56,12.01
