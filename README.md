@@ -20,17 +20,7 @@ Repository: https://github.com/ADVAIT135/GOOGLE-DATA-ANALYTICS
 ## About
 This repo collects the exercises and project work for the Google Data Analytics Professional Certificate. The notebooks demonstrate common data analysis steps using Python and Jupyter, such as data cleaning, exploration, visualization, and basic analysis techniques relevant to the course.
 
-## Repository structure
 
-
-- `module-01/`, `module-02/`, ... — per-module notebooks and assets  
-- `notebooks/` — standalone notebooks used in exercises  
-- `data/` — sample datasets (if included)  
-- `resources/` — images, PDFs, or helper files  
-- `requirements.txt` — (optional) Python dependencies  
-- `README.md` — this file
-
-If you have a different layout, replace the sections above with the actual folder names in your repo.
 
 ## Quick start — view notebooks
 - Browse notebooks directly on GitHub (click any `.ipynb` file).
