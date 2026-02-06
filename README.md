@@ -1,5 +1,9 @@
 # GOOGLE-DATA-ANALYTICS
 
+<a href="[https://example.com](https://www.credly.com/go/VYbK9JTTl3GYBN4JhVmJhA)">
+  <img src="./google-data-analytics-professional-certificate-v-3.png" alt="Certificate" width="250" height="250">
+</a>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the assignments, notebooks, resources, and supporting files for the Google Data Analytics Professional Certificate (Coursera). It is organized to make it easy to browse each module’s materials, run the Jupyter notebooks locally, or open them directly on GitHub/Binder.
