@@ -3,6 +3,10 @@
 Cyclistic, a bike‑share company, wants to convert casual riders into annual members to increase revenue and customer loyalty.
 This case study analyzes 12 months of trip data (5.5M+ rides) to uncover behavioral differences between rider types and provide actionable recommendations.
 
+<p align="left"> 
+  <img src="https://github.com/ADVAIT135/GOOGLE-DATA-ANALYTICS/blob/9f935a3be2b9732f66e927d9766023bb56ecf946/9.%20Google%20Data%20Analytics%20Capstone%3A%20Complete%20a%20Case%20Study/CYC.png" / height ="500"/ width="900">
+</p>
+
 ### 📂 Dataset
 - Source: Monthly .csv files (Jan–Dec 2025).
 - Size: ~5.5M rows, 12 files.
